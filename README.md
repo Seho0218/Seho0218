@@ -14,7 +14,7 @@
 
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdtpgh8913)](https://solved.ac/Seho0218)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdtpgh8913)](https://solved.ac/ghdtpgh8913)
 
 <br><br>
 
