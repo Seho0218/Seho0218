@@ -20,7 +20,7 @@
 <br><br>
 
 <div align="center">
-  📋 Skills
+  📋 Skills 📋
 </div>
 <br/>
 <div align="center">
