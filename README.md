@@ -6,7 +6,7 @@
   
 [![Github Badge](https://img.shields.io/badge/-Seho0218-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Seho0218/)](https://www.github.com/Seho0218/) 
 [![Gmail Badge](https://img.shields.io/badge/-ghdtpgh8913@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ghdtpgh8913@gmail.com)](mailto:ghdtphg8913@gmail.com)
-[![GitHub.io](https://img.shields.io/badge/GitHub.io-orange?style=flat&logoColor=white)](https://ghdtpgh8913.github.io/)
+[![GitHub.io](https://img.shields.io/badge/TSTORY-orange?style=flat&logoColor=white)](https://seho0218.tistory.com/)
 
 
 
